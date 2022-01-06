@@ -41,6 +41,7 @@ Sorting algorithm is used to re-arrange a given array/vector/list of elements ac
 -> Learning git requests and how to collaborate with people.
 
 # Implementation
+#### To run -> Make sure all files are in the same folder, run via preferred editor/IDE
 ## Case 1 : Take input array from the user.
 ### Output
 <img width="504" alt="Case 1" src="https://user-images.githubusercontent.com/41082145/148336744-32847b4f-c46b-4c74-be45-b796eae6a611.png">
