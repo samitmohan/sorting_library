@@ -30,5 +30,26 @@ int main()
     // using our custom sort function
     sort(arr, n);
 
+    // case 3 
+    // taking input from file
+
+    FILE *file = fopen("/Users/smol/Documents/sorting_lib/num.txt", "r");
+    int size;
+    printf("Enter size for the array : \n");
+    scanf("%d", &size);
+    int arr[size];
+    int n = sizeof(arr) / sizeof(arr[0]);
+
+    int i = 0;
+    int num;
+    while (fscanf(file, "%d", &num) > 0)
+    {
+        arr[i] = num;
+        i++;
+    }
+    fclose(file);
+
+    sort(arr, n);
+
     return 0;
 }

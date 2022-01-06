@@ -31,8 +31,8 @@ Sorting algorithm is used to re-arrange a given array/vector/list of elements ac
 # Stability
 -> Is the algorithm stable or not? 
 
-# File Handling *yet to be added*
--> Read file to_sort.txt containing of numbers
+# File Handling 
+-> Read file num.txt containing of numbers of size n (given by user)
 -> Pass file to sort function
 -> Return file with sorted numbers
 
