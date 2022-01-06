@@ -49,7 +49,7 @@ Sorting algorithm is used to re-arrange a given array/vector/list of elements ac
 ### Output
 <img width="427" alt="Case 2" src="https://user-images.githubusercontent.com/41082145/148336843-b6c3de9b-0d87-4628-8ee7-a102655b3ed1.png">
 
-## Case 3 : File Handling -> nums.txt file given with n numbers, sort the file.
+## Case 3 : File Handling -> num.txt file given with n numbers, sort the file.
 ### Text File
 <img width="680" alt="Case 3, text file" src="https://user-images.githubusercontent.com/41082145/148336889-2a2840e5-9838-4f62-91ca-e8bb990e02b0.png">
 
