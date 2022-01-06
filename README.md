@@ -2,7 +2,7 @@
 
 Goals -> To make a sorting library (sort.h) which you can include in your C program just like other library functions (stdio.h, string.h etc) and use all kinds of sorting without the need to implement them individually.
 
-# Why? Because all other programming languages already have this function built in, it's time C does too.
+## Why? Because all other programming languages already have this function built in, it's time C does too.
 Python -> sort() function, C++ STL -> sort(array.begin(), arr.end()), Java Framework Libray -> sort() function.
 
 Where as C (being a very fundamental and old langauge) does not have an inbuilt sorting library.
