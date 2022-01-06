@@ -6,8 +6,8 @@
 int main()
 {
     // case 1
-
     // taking input from the user
+    
     int n;
     printf("Enter size for array : ");
     scanf("%d", &n);
