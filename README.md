@@ -41,17 +41,19 @@ Sorting algorithm is used to re-arrange a given array/vector/list of elements ac
 -> Learning git requests and how to collaborate with people.
 
 # Implementation
--> Case 1 : Take input array from the user.
+## Case 1 : Take input array from the user.
+### Output
 <img width="504" alt="Case 1" src="https://user-images.githubusercontent.com/41082145/148336744-32847b4f-c46b-4c74-be45-b796eae6a611.png">
 
--> Case 2 : Array already given by the user.
+## Case 2 : Array already given by the user.
+### Output
 <img width="427" alt="Case 2" src="https://user-images.githubusercontent.com/41082145/148336843-b6c3de9b-0d87-4628-8ee7-a102655b3ed1.png">
 
--> Case 3 : File Handling -> nums.txt file given with n numbers, sort the file.
-## Text File
+## Case 3 : File Handling -> nums.txt file given with n numbers, sort the file.
+### Text File
 <img width="680" alt="Case 3, text file" src="https://user-images.githubusercontent.com/41082145/148336889-2a2840e5-9838-4f62-91ca-e8bb990e02b0.png">
 
-## Output
+### Output
 <img width="466" alt="Case 3" src="https://user-images.githubusercontent.com/41082145/148336923-515dc330-1f63-4ca5-9bca-063f0a38407e.png">
 
 
